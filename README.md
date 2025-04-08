@@ -107,9 +107,9 @@ Before you begin, ensure you have the following installed on your machine:
 
 Once the server is running, open your web browser and go to `http://localhost:8000` to access the ChatApp.
 
----
-
 This detailed section provides clear instructions on what to install, how to set up the environment, and how to run the application. Let me know if you need any further adjustments!
+
+---
 
 ## 🤝 Contributing
 
