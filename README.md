@@ -103,6 +103,13 @@ Before you begin, ensure you have the following installed on your machine:
    ```
    This will compile your Vue.js assets and enable hot reloading.
 
+10. **Run this command**:
+   In a new terminal window, run:
+   ```bash
+   php artisan queu:work
+   ```
+   Now your ready to jumb in!
+
 ### Accessing the Application
 
 Once the server is running, open your web browser and go to `http://localhost:8000` to access the ChatApp.
